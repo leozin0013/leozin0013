@@ -25,6 +25,7 @@ Learned Languages:
 </a>
 <br>
 ---
-</h2> My Discord: <h2>
--Leozin#3672 <br>
+</h2>My Discord:<h2>
+<br>
+-Leozin#3672
 OBS: I change my discord every two days 

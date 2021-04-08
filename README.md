@@ -1,4 +1,4 @@
-# Hello! 😎
+# Hello Everyone! 😎
 
 My name is Leonardo and my goal here is to help people in need. Here you will find open source scripts for FiveM and Python to help you on your server. Hope you like. Enjoy!
 

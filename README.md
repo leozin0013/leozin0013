@@ -2,7 +2,7 @@
 
 My name is Leonardo and my goal here is to help people in need. Here you will find open source scripts for FiveM and Python to help you on your server. Hope you like. Enjoy!
 
-Learned Languages:
+<h3>Learned Languages: </h3> <br>
 
 <a href="">
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
@@ -24,8 +24,7 @@ Learned Languages:
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />
 </a>
 <br>
----
-<h2>My Discord:</h2>
+<h3>My Discord:</h3>
 -Leozin#3672
 <br>
 OBS: I change my discord every two days 

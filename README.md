@@ -10,5 +10,5 @@ Languages:
 - LUA <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="20vw" height="20vh">
 
 My Discord:
--Leozin#3672
-OBS: I change my discord every two days 
+- -Leozin#3672
+- OBS: I change my discord every two days 

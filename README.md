@@ -23,9 +23,9 @@ Learned Languages:
 <a href="">
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />
 </a>
-
+<br>
 ---
 
 My Discord:
-- -Leozin#3672
-- OBS: I change my discord every two days 
+- -Leozin#3672 <br>
+OBS: I change my discord every two days 

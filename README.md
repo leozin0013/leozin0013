@@ -25,6 +25,7 @@ My name is Leonardo and my goal here is to help people in need. Here you will fi
 </a>
 <br>
 ## Contributions
+<br>
 ![Github Contributions](https://github-readme-stats.vercel.app/api?username=leozin0013&theme=dracula&show_icons=true&hide_title=true&count_private=true)
 <h3>My Discord:</h3>
 -Leozin#3672

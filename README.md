@@ -25,6 +25,4 @@ My name is Leonardo and my goal here is to help people in need. Here you will fi
 </a>
 <br>
 <h3>My Discord:</h3>
--Leozin#3672
-<br>
-OBS: I change my discord every two days 
+-Leozin#0013

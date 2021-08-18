@@ -25,5 +25,5 @@ My name is Leonardo and my goal here is to help people in need. Here you will fi
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />
 </a>
 <br>
-<h3>My Discord:</h3>
+<h3>Discord:</h3>
 -Leozin#7007

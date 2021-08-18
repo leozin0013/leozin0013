@@ -8,10 +8,11 @@ My name is Leonardo and my goal here is to help people in need. Here you will fi
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
 </a>
 
+<!--
 <a href="https://www.youtube.com/watch?v=un2HXgZTIsc">
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
 </a>
-
+-->
 <a href="https://www.youtube.com/watch?v=un2HXgZTIsc">
   <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
 </a>

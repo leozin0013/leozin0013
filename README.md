@@ -56,7 +56,7 @@
 ## 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:leonardomoretoazambuja@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/leonardo-azambuja-92297b314/">
@@ -72,5 +72,5 @@
 <div align="center">
   <i>✨ "A tecnologia é melhor quando aproxima as pessoas" - Matt Mullenweg ✨</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=seuusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=leozin0013&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>

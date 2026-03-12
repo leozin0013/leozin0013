@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Leonardo!</h1>
-  <h3>🎓 Estudante de Ciência de Dados e IA | 🏢 CEO da Supreme Automações | 💻 Desenvolvedor</h3>
+  <h3>🎓 Estudante de Ciência de Dados e IA | 🏢 CEO Supreme Automações | 💻 Desenvolvedor</h3>
 </div>
 
 ---
@@ -66,11 +66,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
-
----
-
 <div align="center">
-  <i>✨ "A tecnologia é melhor quando aproxima as pessoas" - Matt Mullenweg ✨</i>
-  <br><br>
   <img src="https://komarev.com/ghpvc/?username=leozin0013&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
